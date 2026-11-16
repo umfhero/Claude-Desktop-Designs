@@ -1,6 +1,6 @@
 {
   "name": "claude-desktop-themes",
-  "owner": { "name": "0toshigami", "url": "https://github.com/0toshigami/claude-desktop-themes" },
+  "owner": { "name": "umfhero", "url": "https://github.com/umfhero/Claude-Desktop-Designs" },
   "description": "Themes and live ASCII wallpapers for Claude Desktop",
   "plugins": [
     {

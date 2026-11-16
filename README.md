@@ -47,12 +47,12 @@ belong to Anthropic.
 ## Install
 
 In Claude Desktop: open **Settings → Plugins**, press **Add → Add marketplace**, enter
-`https://github.com/0toshigami/claude-desktop-themes.git`, then install **themes-for-claude** from it.
+`https://github.com/umfhero/Claude-Desktop-Designs.git`, then install **themes-for-claude** from it.
 
 Or, at the prompt of a Claude Code terminal session:
 
 ```
-/plugin install themes-for-claude --marketplace 0toshigami/claude-desktop-themes
+/plugin install themes-for-claude --marketplace umfhero/Claude-Desktop-Designs
 ```
 
 Answer `y` to add the marketplace, then pick a scope.
@@ -60,7 +60,7 @@ Answer `y` to add the marketplace, then pick a scope.
 From a shell:
 
 ```bash
-claude plugin install themes-for-claude --marketplace 0toshigami/claude-desktop-themes
+claude plugin install themes-for-claude --marketplace umfhero/Claude-Desktop-Designs
 ```
 
 ## First use
