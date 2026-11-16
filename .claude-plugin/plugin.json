@@ -8,6 +8,5 @@
   "repository": "https://github.com/umfhero/Claude-Desktop-Designs",
   "license": "MIT",
   "keywords": ["themes", "wallpaper", "ascii", "claude-desktop"],
-  "icon": "./.claude-plugin/icon.svg",
   "types": "./types/index.d.ts"
 }
